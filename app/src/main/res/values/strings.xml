@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="login_as_guest">Masuk Sebagai Guest</string>
+    <string name="guest">Anda Masuk Sebagai Guest</string>
+    <string name="message_welcome_page">Siap Untuk menuangkan Imajinasi mu ke dalam Story!</string>
+    <string name="title_welcome_page">Selamat datang di Story App!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email" tools:ignore="ExtraTranslation">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="error_empty_password">Password cannot be empty</string>
+    <string name="error_password_more_8">Password must be at least 8 characters long</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk mengabdikan moment hari ini?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Bercerita di Story App.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="loading">Loading...</string>
+
+    <!--    Story-->
+    <string name="title_story">Title</string>
+    <string name="description_story">Description</string>
+    <string name="create_story">Create Story</string>
+
+    <!--    Menu-->
+    <string name="title_menu">Profile</string>
+
+    <!--    Create Story-->
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="hint_desc">Description your story</string>
+</resources>
